@@ -1,0 +1,23 @@
+body {
+  font-family: "Inter";
+}
+
+.hidden {
+  display: none;
+}
+
+.tanyaBox,
+.johnBox {
+  display: flex;
+}
+
+.btnDiv {
+  align-items: right;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
